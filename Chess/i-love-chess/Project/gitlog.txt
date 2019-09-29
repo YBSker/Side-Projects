@@ -1,0 +1,1301 @@
+commit 0080b411f2fa3c5d0a47fc4b2f18bb73766aae12
+Author: atran25 <atran25@jhu.edu>
+Date:   Fri May 3 19:49:26 2019 -0400
+
+    valgrind yeeted, piazza should be named pizza
+
+commit 4c4855fbe5985a3891e4006ba9afe35e7e4c8e84
+Merge: 0cbdb28 410b9e5
+Author: atran25 <atran25@jhu.edu>
+Date:   Fri May 3 19:26:22 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 0cbdb2824b7b433b7ccc0323cccfc9a06bf562fd
+Author: atran25 <atran25@jhu.edu>
+Date:   Fri May 3 19:26:09 2019 -0400
+
+    fixed valgrind
+
+commit 410b9e5d1795a362a236c48a71a78e51e7cb49e3
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 19:20:41 2019 -0400
+
+    Error messages
+
+commit 48e253cb3b1b74fc837ab17dce30a9f5b665fb1c
+Merge: c6df948 ede0036
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 19:10:36 2019 -0400
+
+    ZZZZMerge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit c6df948193eb407fc35c708c98c4acc1f4d0219d
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 19:10:21 2019 -0400
+
+    changed valid kings
+
+commit ede0036b0335c56c1f5c1da03b08a7a456ffa90f
+Merge: 6f5731e 1a442c2
+Author: atran25 <atran25@jhu.edu>
+Date:   Fri May 3 18:59:53 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 6f5731e15d04f0da8140f8979f4275625a600fb8
+Author: atran25 <atran25@jhu.edu>
+Date:   Fri May 3 18:59:13 2019 -0400
+
+    removed alt file
+
+commit 1a442c2fc7c494da92359c34193c7991091d89b8
+Merge: 7b6ee51 8e32950
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 18:57:39 2019 -0400
+
+    merge
+
+commit 7b6ee51363836cdd91d4a848854b6f5990234d23
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 18:57:14 2019 -0400
+
+    fixed diagonal unit collision
+
+commit 8e3295026cbc9f2c320d2f7e24cc3b29059d6392
+Merge: 6b20a3f 6d25494
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 18:55:13 2019 -0400
+
+    why
+
+commit 6b20a3fba71c81e59bd34960adc56cefb89fa35c
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 18:54:48 2019 -0400
+
+    more fixes
+
+commit 6d254942485c86aa9bcaf2a562d00484bf7c7fc5
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 18:20:16 2019 -0400
+
+    Unity
+
+commit c146ea4a64f95127234b7fc2b853db687bcf1119
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 18:00:00 2019 -0400
+
+    Readme
+
+commit 90c10e09a70b12dd52d221842b5f4c6255184e70
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 17:52:51 2019 -0400
+
+    working version
+
+commit dad85bd1933ab931b9f1e9229c5ad2ce756ccd58
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 17:39:48 2019 -0400
+
+    makefile
+
+commit 6485c0ee303e787ad709cffb3abfb8268423dba6
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 17:29:23 2019 -0400
+
+    shrekt in peaces
+
+commit 69573a01b3ddb7f42ae3094a4cf495e321e5c9b7
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 17:16:22 2019 -0400
+
+    nice
+
+commit 972b355b35b35f82f21ed6181c1bc18e3df7d39d
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 17:14:36 2019 -0400
+
+    removed print debugging lines
+
+commit 5f04babc430dba140f1b1ae51af4995aa6f9127e
+Merge: 8291b0b fa65388
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 17:12:01 2019 -0400
+
+    fuck
+
+commit 8291b0b4d08c32ab86b8a769a6934fdf0cfecf42
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 17:11:48 2019 -0400
+
+    made it pretty
+
+commit fa653887a2b12b25b2f1d0648d62297716b40f1a
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 17:11:29 2019 -0400
+
+    TRY MOVING INTO CHECK NOW @#$%^&*
+
+commit 15df67e71c62008bf3a282bac9c998ce3245522b
+Merge: fb6898a 39cad8b
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 16:37:23 2019 -0400
+
+    fuck
+
+commit fb6898af6be19ffe394dd10c4374044eeba9778a
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 16:36:53 2019 -0400
+
+    more stuff
+
+commit 39cad8be471f9e8e4557e2e8cbf54b6c4f93e246
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 16:32:11 2019 -0400
+
+    seperation of make_move into make_move and is_legal_move
+
+commit f69ddf29a61448726d2a11a33ce59f5d97520661
+Merge: 22efc7f ebc64b0
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 15:47:10 2019 -0400
+
+    ass
+
+commit 22efc7fdcd4b8cd4d8b33aea5089df567e751267
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 15:46:42 2019 -0400
+
+    fixed validkings
+
+commit ebc64b083b19ff93bb525e31117d4c05055a4b0b
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 15:45:30 2019 -0400
+
+    added mystery to makefile
+
+commit a6ccc2424242fa3e16eae05ccd7179b9a91829a9
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 15:23:15 2019 -0400
+
+    got rid of annoying print line
+
+commit 82ccd94b058f11961bdd6e8ab6e553d9a5a19ed4
+Merge: 62262d7 346e3de
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 15:22:21 2019 -0400
+
+    merge
+
+commit 62262d70a53dbc427bece5fb1c1815a162d6b34a
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 15:21:51 2019 -0400
+
+    formatting stalemate
+
+commit 346e3deaf93f5329b7231e706deb570c158bb7e3
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 15:14:39 2019 -0400
+
+    fixed up has valid king
+
+commit 0d68b941266ff6ddf3c94c73e042208261939a2a
+Merge: e166bed 0c87d6e
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 15:11:03 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit e166bedd3d6c1419e4cf46b1af2d791f9f02e3ce
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 15:10:54 2019 -0400
+
+    wow
+
+commit 0c87d6e0ad6e0d190ad1de053093d214cc793de6
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 15:10:25 2019 -0400
+
+    taking out the trash
+
+commit 1cc784744c69b7836e15077d1697d9dd218d7506
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 15:06:58 2019 -0400
+
+    semicolons
+
+commit 15035ebc6ad57589082a2f9b18da72f876c021cc
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 14:53:15 2019 -0400
+
+    did pawn to queeN
+
+commit b0239c84f8a6d581000821e49b7c77b14649df34
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 14:42:36 2019 -0400
+
+    removing prints pt2
+
+commit 5fee7346bb4d3cbd38b0d2715dc1bf060a6068c0
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 14:41:20 2019 -0400
+
+    removeding prints
+
+commit d31b733d9d33befd5f0abe7dfd29ed0cd0cf7e21
+Merge: ef2472a 5bebecc
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 14:35:57 2019 -0400
+
+    oops
+
+commit ef2472ab1dc2c25374de98a270014b0bdb1e2200
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 14:35:40 2019 -0400
+
+    it works
+
+commit 5bebecc844ce620962a039544813a50964fa689c
+Merge: 3ecd3a9 65c2b65
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 14:34:51 2019 -0400
+
+    merge
+
+commit 3ecd3a95a5168f19bbbff09ab649c4abeb8d2876
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 14:34:14 2019 -0400
+
+    The miracle line - turn change in check
+
+commit 65c2b659380a3c912c325e753839c3da65da106e
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 14:31:58 2019 -0400
+
+    praise sara more she is merciful
+
+commit c1a41ab89b33023d293a18b09828ae876c69e67b
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 14:04:11 2019 -0400
+
+    shit
+
+commit dd712ce61f7cb3d453393dcb1f7ff0032d97e960
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 13:03:55 2019 -0400
+
+    compiles but seg faults :)
+
+commit 2f1a572c8b3b4b25b7b2b0a003b583bc246a337e
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 12:59:16 2019 -0400
+
+    trying to fix loading
+
+commit 929be0c0037259814fd43e7661176a7266066481
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 11:42:52 2019 -0400
+
+    fixed pawns
+
+commit 538b8b5a41a2dd0624c2ceecfb5c63626588f498
+Merge: 9e80250 78cd086
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 11:21:39 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 9e802501b0b0538b5c31d61eb0ebacfb4d0a7143
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 11:21:28 2019 -0400
+
+    ohmyfuck
+
+commit 78cd08613f06ad8d3ba36842b03fa6d356e8709b
+Author: atran25 <atran25@jhu.edu>
+Date:   Fri May 3 11:21:09 2019 -0400
+
+    fixed issue that made Pawns only print as p
+
+commit 34734a83eab2106b165a9515bd813e91a79585e4
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 10:56:23 2019 -0400
+
+    fuck
+
+commit 39f0d02733f81b30f109b5905b0d730192a01a86
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 10:17:15 2019 -0400
+
+    fixed the copy constructor
+
+commit 287a54fe07f4897fd1131284b477998493cefd10
+Merge: e402c41 ac6c1c5
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 10:01:47 2019 -0400
+
+    shit
+
+commit e402c41b54fbf837876707d1b5f2e34f27a16fd9
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 10:01:29 2019 -0400
+
+    ass
+
+commit ac6c1c51fffef424e409426efe38f77b1151cac6
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 07:46:44 2019 -0400
+
+    merge
+
+commit 7ecc104e1d80bfbeb8061eb9e0fd862092de74b1
+Merge: 3cf4a42 15acc27
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 07:43:19 2019 -0400
+
+    fuck
+
+commit 3cf4a42a0112a3e1f1b3e1af0479f546ab65fd80
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 07:43:07 2019 -0400
+
+    im in hell
+
+commit 15acc275bd0c111a6c90506b546b26cf631a1bad
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 07:42:36 2019 -0400
+
+    merge fixing
+
+commit 3f16ba42255b7cfc25f081d8bd97d04ef3232343
+Merge: 2b2a74c 86741e1
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 07:39:29 2019 -0400
+
+    merge
+
+commit 2b2a74c5e37ef97285f89fea52a42700950cacd5
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 07:39:07 2019 -0400
+
+    merge
+
+commit 86741e1013431928409e17435a2b8977aa0f0e6e
+Merge: ecfeb60 71c56e2
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 07:37:39 2019 -0400
+
+    ugh
+
+commit ecfeb6055449dbda84156ebfe68e86bea92dac31
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 07:37:04 2019 -0400
+
+    nani
+
+commit 71c56e2ffb65e8d76f70b62a8e12155d967c803a
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 06:38:26 2019 -0400
+
+    trying to debug in_check/in_mate
+
+commit ebc79f2e1ec1efc9f1435d055e32e316fb7ea865
+Merge: 673625d 05ab01f
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 06:19:13 2019 -0400
+
+    ass
+
+commit 05ab01f22378e6aa690574b2d9f5886422e6da1f
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 06:18:08 2019 -0400
+
+    overhauled make_move, changed almost everything except the collision checkers
+
+commit 673625d13ae9a291ca0f77d55ffda5dfcc5bbec8
+Merge: 9b169c0 e5a0d12
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 06:17:35 2019 -0400
+
+    what
+
+commit 9b169c0eafc613ab6f2c6e4bebff156bcd83241b
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 06:17:01 2019 -0400
+
+    testing changes
+
+commit e5a0d12c7060cdce9019c65c9928ede466ca1296
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 05:54:47 2019 -0400
+
+    make findkingpositions obsolete by redoing in check, fixed parts of make move
+
+commit 5aa21371450adbad4f092d40da843c45a5b4f766
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 04:40:17 2019 -0400
+
+    fixed overloaded () position finder for board, just using at wasn't working
+
+commit c47bfaedb1f8aa2fe728841ccea9977dab74a65b
+Merge: 5c8c006 0341ab4
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 01:05:21 2019 -0400
+
+    merge attempt
+
+commit 5c8c006ada1b92fc68d6c3b1022d6e55bdac8ebc
+Merge: f90f206 71c8e37
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri May 3 01:04:46 2019 -0400
+
+    merge attempt
+
+commit 0341ab43bc1ca9f498e69efcc6716bf5a38795a8
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 00:37:57 2019 -0400
+
+    wtf
+
+commit b0ad2c41ad37b81cd105d493cc1dc68594106977
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Fri May 3 00:22:29 2019 -0400
+
+    added a tester to print whats in the map
+
+commit 4ffbef9d1f1fff28271d226530933ac57daf0148
+Author: atran25 <atran25@jhu.edu>
+Date:   Fri May 3 00:12:40 2019 -0400
+
+    made some changes
+
+commit 71c8e37de38d5e1039b8cf1e4229de8332e537b9
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 22:48:11 2019 -0400
+
+    make
+
+commit f90f206cf7f1eaf206171599ff4600cdb1aa67fa
+Merge: 3947b05 bac8385
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 22:44:32 2019 -0400
+
+    yeet
+    :
+
+commit bac8385fb04b540cd194618701ff85631566d2bf
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 22:40:42 2019 -0400
+
+    fuck
+
+commit 3947b05054a496c71fdee49beea9ec39ca042574
+Merge: 95ee4d2 ba557b6
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 22:24:09 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+    
+    ag
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    z
+    
+    
+    
+    
+    
+    Z
+    Z
+    Z
+    
+     if it merges an updated upstream into a topic branch.
+
+commit ba557b667ccf7a8d3d6271646b3813c5e6407981
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 22:23:56 2019 -0400
+
+    everything
+
+commit 5bf7e746b4f298d1565ca2f0a2404dabfd6fc360
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 22:23:25 2019 -0400
+
+    push everything
+
+commit 95ee4d2be0b01f83f31b31d97805be124b537193
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 22:22:19 2019 -0400
+
+    temporaryily removed terminal from makefile
+
+commit e7c3f1cd9acb3330f5cd99cc57ff476a5894ab4a
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 22:21:51 2019 -0400
+
+    errors yeeted
+
+commit 0ca751148721660790161cb68a66f8c017edda7c
+Merge: b4a5288 4efabdc
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 21:49:33 2019 -0400
+
+    merge attempt
+
+commit b4a5288d2c6639012010e9b7bb053eca248d6efc
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 21:49:07 2019 -0400
+
+    Overloaded operator >>
+
+commit 4efabdc2a9750ce8976606a478eb096c787d129e
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 21:45:19 2019 -0400
+
+    removed .o files
+
+commit f5993875d8f3d640224cd15ee2ca2225d712cb6b
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 21:43:00 2019 -0400
+
+    more stuff
+
+commit 7769a65b5ae0e6274aab18786fcbc68573f9ab34
+Merge: 34f4c8f 2d4f424
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 21:28:17 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 34f4c8f67c69c7b79eea84644d91d9f26f41055e
+Merge: ae19cdc c4aa4fd
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 21:27:58 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 2d4f424305549b7e033e1d70eae6d2c637b48bcb
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 21:27:47 2019 -0400
+
+    destructors
+
+commit ae19cdc5c3139a82dcad0829bc234ee9e312039d
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 21:27:37 2019 -0400
+
+    more error fixes
+
+commit c4aa4fd8cd3e81c8eee291fee82124533522e61f
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 21:20:07 2019 -0400
+
+    fixes
+
+commit 7ec9f8f00f09356f5921c1ed1528febac5fdb41f
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 21:06:40 2019 -0400
+
+    made some more fixes
+
+commit 57c7c278fba22f81b3015df12079a4dd5be79218
+Merge: 27d00a0 34bc595
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 21:01:51 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 27d00a06f7745b1cb48c11f53d6f3e1d3759142a
+Merge: 9028cf5 5bd571e
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 21:01:37 2019 -0400
+
+    merge attempt cri
+
+commit 34bc595f87a6d05da364f18f1cb4bda688667397
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 21:00:44 2019 -0400
+
+    more fixes
+
+commit 9028cf5fba104154d8c63d10a6345c5865ea1b18
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 21:00:13 2019 -0400
+
+    fixed errors in findKingPosition
+
+commit 5bd571ed7687be6164388b40684471267ae6e0ba
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 20:55:21 2019 -0400
+
+    fixed some errors
+
+commit 028f6f6b5b1c7c3cd0777de0b2be691da198f6b2
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 20:38:35 2019 -0400
+
+    fixed the pair shit
+
+commit 42ee8473f23a4e7399b58912612b8c4e743d97ba
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 20:33:07 2019 -0400
+
+    fixed issue on line 88
+
+commit 5cee9d35aefa00fdeab5a2b6bc3f87f22d388091
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 20:27:06 2019 -0400
+
+    fixed nonvoid return type error
+
+commit c13b103fa096e60cec48972b5e1d11fdef003a52
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 20:24:28 2019 -0400
+
+    fixing pair initializations in mate and stalemate
+
+commit dfe5077d5a2e5778b1de62557150e4732453ded6
+Merge: 987b647 2a4addc
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 20:19:25 2019 -0400
+
+    merge attempt
+
+commit 987b64786515e9fc1a3b33e6710d1fad2486abba
+Merge: ccf0f3b 3fe6a5f
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 20:19:03 2019 -0400
+
+    attempt merge
+
+commit 2a4addc3b34e2a35b4e728cf4672bf2525540689
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 20:18:50 2019 -0400
+
+    yay
+
+commit ad10e8de11886f6a6c670be0fa1fc3ce8df2ab07
+Merge: 29ce368 3fe6a5f
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 20:18:00 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 29ce368f6580c2fa836c60bfda853dec15123152
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 20:17:54 2019 -0400
+
+    fuck
+
+commit 3fe6a5f2df2d40dc16c1c1626593ce5486f969d3
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 20:16:39 2019 -0400
+
+    fixed errors in in_check
+
+commit ccf0f3b5bfa3a63e82fea3f390c67671162ef862
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 19:53:58 2019 -0400
+
+    formatting
+
+commit f01380d24d20bcec5ce8cb3b5e5b0208aa5329e8
+Merge: c17030a 0560808
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 19:46:19 2019 -0400
+
+    Merge attempt
+
+commit c17030a3d8d2235f6d76fd2ff1fe31e3aaadfb13
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 19:44:57 2019 -0400
+
+    Fixed merge again
+
+commit 05608088757d96e93ba21c58f386ddd39fdff116
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 19:44:52 2019 -0400
+
+    fix
+
+commit 7fe7d120481de2f7ed3830a41936fdf60fa095cc
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 19:42:46 2019 -0400
+
+    huh
+
+commit 7ca738da4fe4608f843e7a09750afe8e61b51e26
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 19:40:14 2019 -0400
+
+    shit
+
+commit afd5bb0631c0c1c7bb3ba56721ca002ee324497c
+Merge: 01d3eb9 314f39d
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 19:39:10 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 01d3eb9bf5a09ee3dbb8f8dd44110ac1591cf7ed
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 19:39:05 2019 -0400
+
+    motherfucker
+
+commit 314f39dda3115628fcf1df214cfffacb72190e70
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Thu May 2 19:38:28 2019 -0400
+
+    Fixed mate and stalemate
+
+commit 6888ca6a717081161e6d69460ec056cd5303940f
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 19:30:42 2019 -0400
+
+    fixed arrows now more errors
+
+commit 30971dca15e7ff92a8cf05a45ad3e7697d41f6b3
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 19:11:56 2019 -0400
+
+    error fixing
+
+commit 2f8269bdf5d6f18afb9fbbdbef265d526848f205
+Author: atran25 <atran25@jhu.edu>
+Date:   Thu May 2 17:21:43 2019 -0400
+
+    fixed some errors
+
+commit b5addc16d2ae45dc55a0568cc4481d6b1d0ace18
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 14:25:42 2019 -0400
+
+    do we need to put everything in the header or smth
+
+commit 851680612e5fbaaa67308a3eadc96fcc5aec0de7
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 13:25:54 2019 -0400
+
+    added check for pieces between functionality
+
+commit da9d0d434d4369b9627bc82cffcfe2e5594ddf73
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Thu May 2 00:39:06 2019 -0400
+
+    again
+
+commit 6aa54b6be83f4d655f56a2f9987dad09cf8b1e03
+Merge: 122b461 3462883
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 22:30:54 2019 -0400
+
+    help
+
+commit 122b4610883acfc14d4ff868da9e32d75543462c
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 22:30:20 2019 -0400
+
+    help
+
+commit 346288341f475dd139bdec3da2353181f02d8dea
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 22:27:39 2019 -0400
+
+    fixed warnings
+
+commit abb6254ec1d2dd3b0ff24869d31e7a6e07193a53
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 22:22:45 2019 -0400
+
+    fixed remove func
+
+commit 832b9effa84b07359fe2c5b28525eab299dd9620
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 22:08:23 2019 -0400
+
+    in_stalemate fix
+
+commit 152615cd27b7c9f3e1b5dcf567133ea3fa7d4281
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 22:00:32 2019 -0400
+
+    fixed error in operator()
+
+commit a4e412f4788a77d3c89b5552cfae6103d80c6e3f
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 21:51:08 2019 -0400
+
+    Removed merge garbage
+
+commit 6153017ed0eb19c5dce308e3427103473bcf1fe2
+Merge: 7f0df3c b915847
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 21:48:04 2019 -0400
+
+    merge attempt
+
+commit 7f0df3c7df1c8ed4d4c5f217b9a4b082134dc272
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 21:47:08 2019 -0400
+
+    in-mate fixes
+
+commit b915847edff1217bc88570a5d1a1b7c82677e1b1
+Merge: d69d755 a4b7413
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 21:32:52 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit d69d7554c9f7726dfb7371ba79f05f7304967783
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 21:32:39 2019 -0400
+
+    fixed Chess copy constructor
+
+commit a4b7413979129bd03d3dd14826571741ec36afae
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 21:23:29 2019 -0400
+
+    hnng
+
+commit 16e5d0c8bedf87d93c97af2de6652500546c327f
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 21:18:21 2019 -0400
+
+    fixed error in copy constructor
+
+commit 77bb74a62fb7e22e6a541e10c60ace151e7e3df6
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 21:04:53 2019 -0400
+
+    sutpid change
+
+commit 5e0de6889bbd60f67131582019654a23a45c22c6
+Merge: 80b1c82 fae6368
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 21:03:53 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 80b1c82af3ccaa615cb41b98804db4208033674a
+Merge: bfdca4c 1375bbb
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 21:03:23 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit fae63681098b713e8d7515ae41ba107af2a42b8a
+Merge: 3b37940 1375bbb
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 21:03:18 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit bfdca4cace61361e0c123f2110009132bf39fca4
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 21:02:54 2019 -0400
+
+    further fixes
+
+commit 1375bbb1879ffbf734dbe93779c9992f790ffc5f
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 21:02:27 2019 -0400
+
+    4 spaces - Tabs
+
+commit 3b37940a44c8eafab9afccfa52c7682b6fd02b75
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 21:00:59 2019 -0400
+
+    finished incheck
+
+commit 6c41153c32123d36d66bcfe08a59bdf5b26030ce
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 20:59:09 2019 -0400
+
+    Makefile was missing target for main
+
+commit 8b57b93344c106cf7cb15615fa6bf9b05af7b241
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 20:57:04 2019 -0400
+
+    added some functionality to chess
+
+commit 0e0514443e2cb6ce484e5ab79011d7b10fba6ef9
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 20:53:31 2019 -0400
+
+    fixed errors in has_valid_kings
+
+commit ce7a3f141f3a58481133d3c7e656f534fa54b6b2
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 20:44:05 2019 -0400
+
+    Finished prototype of in_stalemate
+
+commit f47ebaa3cc39a4e1ebe8409ed7de9fa7538b65c9
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 20:41:51 2019 -0400
+
+    bug fix
+
+commit 076cb1f4a5d0fe4a018c99dc6ba9f2e78b2faae4
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 20:33:13 2019 -0400
+
+    undoing merge messup on Pawn.h
+
+commit bd01b358d288a42925375359f89145db16dc47b2
+Merge: 1dfae63 a90740f
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 20:30:39 2019 -0400
+
+    merge attempt
+
+commit a90740ff12226f98dd2ab5ca3cea14f68adda4cf
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 20:29:05 2019 -0400
+
+    deep copy constructors
+
+commit 1dfae6388c4df1c6dcd71783a331b871459441e6
+Merge: 97717ff 011b4e6
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 20:27:02 2019 -0400
+
+    merge attempt
+
+commit 97717ff3ae158dc93eae115012d599e817eacb2c
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 20:26:30 2019 -0400
+
+    merge attempt
+
+commit 011b4e69f052c40832d2496fe7b5079dd58865b4
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 20:25:36 2019 -0400
+
+    reup
+
+commit 56d3288951c243460cd31a0cc5c11e067f8bee81
+Merge: d71e938 bf192bb
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 20:18:25 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit bf192bb6396c714e541787d028969544d858701b
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 14:47:18 2019 -0400
+
+    Partial of in_stalemate
+
+commit d71e938b8121d7aaa4cc10cba7c464ac8d013118
+Merge: 9dd04c4 94a3794
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 14:38:39 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 94a3794d808fe02dce373e752b813060a603a83a
+Merge: 5de2581 916f5cb
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 14:30:31 2019 -0400
+
+    merge attempt
+
+commit 5de258156bf7da52d3499db9582edd88c9ac5e8d
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 14:30:00 2019 -0400
+
+    in-mate function
+
+commit 9dd04c43332b98154be7f4352195ccf020154c86
+Merge: 83ba1ed 916f5cb
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 14:23:09 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 83ba1ed6fb36565f93f2f3e550d4db0e256e942d
+Merge: 258cbfd 6490f05
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 14:23:01 2019 -0400
+
+    fixed pieces errors
+
+commit 916f5cbfe0a481f949d5a56af8fe0372b7f18317
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 14:22:30 2019 -0400
+
+    Added the ability to change who's turn it is
+
+commit 258cbfdb46d73c6b2d876708f3acf408c618a680
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 14:21:44 2019 -0400
+
+    fixed some errors in pieces
+
+commit 6490f0557904419262faa89f1f04a83fbe239cc9
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 14:19:36 2019 -0400
+
+    copy constructor for chess
+
+commit c4a39c17d2c5043bbd3e997c46fd522a528c052b
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 14:15:12 2019 -0400
+
+    copy constructor for chess
+
+commit e345bcd346afad7c95a77f26bc0a15fafa64e1c8
+Merge: 0b1feb6 47ba44a
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 14:04:38 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 0b1feb6e5f152e9e79def36c7cc754daa479806b
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed May 1 14:03:48 2019 -0400
+
+    finished make move
+
+commit 47ba44a974c5c53453190f704aea6887c326e121
+Author: atran25 <atran25@jhu.edu>
+Date:   Wed May 1 13:44:11 2019 -0400
+
+    fixed Makefile
+
+commit 13e74889d53f91dcf2fcef450de910325ec269bd
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed May 1 03:43:24 2019 -0400
+
+    Copy constructor?
+
+commit c0fe42dd969c5c2ea9952066ac31f8d31ac725cf
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Tue Apr 30 11:18:43 2019 -0400
+
+    added a bunch of checks for makemove
+
+commit e72cb340d0b73b4cf52f0aff21d9afedef9abe90
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Tue Apr 30 11:00:04 2019 -0400
+
+    planning...also made sure pieces won't move out of board.
+
+commit a6305d3999ca778e22b2060e5ec9586bcc396667
+Merge: 11431f8 bc60a25
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Tue Apr 30 10:36:19 2019 -0400
+
+    MergjZZZZ branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 11431f81c429dd587d12da240aa5e1d4debdb144
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Tue Apr 30 10:36:05 2019 -0400
+
+    adding some functions just to check if things bad
+
+commit bc60a2506ee3cc51b5f4e734c7d36e6605aad52d
+Author: atran25 <atran25@jhu.edu>
+Date:   Tue Apr 30 04:04:42 2019 -0400
+
+    added remove function to Board.h
+
+commit 1213d7db2e90b31e0cd27e096e5b1a9713720999
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Mon Apr 29 22:07:28 2019 -0400
+
+    Seperated longer functions from (x_piece).h files into cpp files
+
+commit 301ac0fbe0f2e73532a5876acb5463a37a2ccd54
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Mon Apr 29 14:38:49 2019 -0400
+
+    made a copy constructor? IJ think occ is allwe need...
+
+commit e3ce28c443c24e8fb0ffb21150143198d000af4f
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Mon Apr 29 14:32:13 2019 -0400
+
+    re-added display because it disappeared for some reason
+
+commit 488f5df44f2fd7c965415f19a83512d81b0fbc41
+Merge: 09589bf 3de5e14
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Mon Apr 29 14:27:05 2019 -0400
+
+    fuck this
+
+commit 09589bfd634aa16cdb83c458c3dc99039c6e41ed
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Mon Apr 29 14:25:49 2019 -0400
+
+    added validkings
+
+commit 3de5e14ca34293f613d16ee26a763c44b5105721
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Mon Apr 29 14:24:32 2019 -0400
+
+    pushing clean version of board without merge things
+
+commit ebf234dc32483d0c222f22973010f7e0658009fd
+Merge: c5177f4 ccbde7d
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Mon Apr 29 14:16:13 2019 -0400
+
+    again
+
+commit c5177f4887efa16aad07f1167a7a035038b71b28
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Mon Apr 29 14:15:18 2019 -0400
+
+    added add_piece
+
+commit ccbde7d3188563283ecd943c11a7ffe854520951
+Merge: 1f5dc4e 4ce97ca
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Mon Apr 29 14:10:53 2019 -0400
+
+    merge attempt
+
+commit 1f5dc4ef0961df623b1a41ed771c902e8b0229a1
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Mon Apr 29 14:10:15 2019 -0400
+
+    Added has_valid_kings() and display(), the latter can be improved for better looks in the future
+
+commit 4ce97cac72bb1ddd4816898fea451cbc44e7326d
+Merge: 1ac50d3 26dfa43
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Mon Apr 29 13:55:37 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 1ac50d3e597d30450f65e015886a99c7a1d8c895
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Mon Apr 29 13:55:22 2019 -0400
+
+    worked on checking if pieces exist
+
+commit 26dfa4393ccfa294524cb7008450a48cd86e49a6
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri Apr 26 13:31:39 2019 -0400
+
+    I messed up and changed piece.h, this undoes it.
+
+commit 0eaa08e6789b01a35bbe37708cad5063568c8809
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri Apr 26 04:39:51 2019 -0400
+
+    Fixed Pawn.cpp by changing first/second and adding a condition for white vs. black
+
+commit 5dbd5277d23ecc21fb5c98325a9986202a6a9fcd
+Merge: 4204410 49221f6
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri Apr 26 04:31:26 2019 -0400
+
+    Merge attempt
+
+commit 42044106e14c3136db21f89f38c0f2ae8a428332
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Fri Apr 26 04:29:37 2019 -0400
+
+    Completed legal_move_shape and legal_capture_shape for all 6 pieces. 5/6 pieces seem to be good after this, pawn might need more because of the whole promotion and double jump thing
+
+commit 49221f63888113b615ff689334549717b71cc5c1
+Merge: 2b852d7 3a9d0da
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed Apr 24 14:46:19 2019 -0400
+
+    t pushP ZZZZMerge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 2b852d71926732d27f2a75f4e1b8142d869c0381
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed Apr 24 14:46:09 2019 -0400
+
+    added some stuff about valid move for pawns
+
+commit 3a9d0dad058a96a9c640a5afa8ba975c7f2ae7d8
+Merge: 6eb81c7 8ac8f1c
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed Apr 24 14:35:19 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 6eb81c7e3597f9ad11e873b43631d32afaa2740c
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed Apr 24 14:35:04 2019 -0400
+
+    added clean to makefile
+
+commit 8ac8f1cb46c234d7e6f1e502368f628c4690b3f9
+Merge: 6e23bf2 16fb9cf
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed Apr 24 14:33:32 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+
+commit 6e23bf244e644847e21c2d7423a52683eb6a235d
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed Apr 24 14:33:04 2019 -0400
+
+    more framework for pawn.cpp
+
+commit 16fb9cfde41a25b93f466aa22d474ea1041df5e5
+Merge: 20fc165 adb4f43
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed Apr 24 14:30:50 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/YBScker/i-love-chess
+    
+    ewkfopwekfopwekfpowek
+    
+    
+    
+    
+
+commit adb4f439c62d8bfe920d2893c67a18cbb88a6931
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed Apr 24 14:30:32 2019 -0400
+
+    added pawn constructor, hasmoved funct
+
+commit 20fc165771054f0a08b30f1846e29858d00eada3
+Merge: 525b2da 3433727
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed Apr 24 14:30:03 2019 -0400
+
+    Merge attempt
+
+commit 525b2da09227ce31bc04aa853a718c84caecd434
+Author: Jerry Chen <jchen268@jhu.edu>
+Date:   Wed Apr 24 14:27:46 2019 -0400
+
+    Added Makefile - Currently does not include terminal or mysery piece
+
+commit 3433727eaf17620f3f5c784f148a692a4ed455bf
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed Apr 24 14:16:19 2019 -0400
+
+    starting to work on pawn.cpp
+
+commit 1a7763ffccccf53a734dc3901a22f188c7909d11
+Author: Stanley Chu <schu17@jhu.edu>
+Date:   Wed Apr 24 13:48:02 2019 -0400
+
+    copied starter files

@@ -1,0 +1,18 @@
+TEAM -
+Jerry Chen (jchen268)
+Stan Chu (schu17)
+Tran The Ahn (atran25)
+
+DESIGN -
+We use dynamic dispatch as required for the pieces.
+We have a function called is_legal_move which checks if a move from one square to another in a legal move
+We then have a function called make_move which actually does the move, but it calls is_legal_move to check if it's legal. Checking that you
+    don't move into check is done in make_move, however.
+The function in_check goes through all possible moves from the opponent to see if there's any possible way they can "move" onto your king's square.
+    if there is, it return true, which means you're in check, and otherwise returns false.
+The functions in_mate and in_stalemate are similar. in_mate check that you are in check and that no possible move you can make can get you into
+    a position where you are not in check. in_stalemate does the same except that it first checks that you are not already in check.
+
+
+COMPLETENESS-
+We hope it all works correctly.
